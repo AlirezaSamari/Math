@@ -1,2 +1,2 @@
 # Math
-Some useful math stuff
+Some useful math stuffs
